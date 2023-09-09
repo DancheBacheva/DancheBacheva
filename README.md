@@ -27,6 +27,5 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
-  ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-333333?style=flat&logo=mongodb&logoColor=47A248)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack&logoColor=4A154B)
 
