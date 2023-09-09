@@ -5,7 +5,7 @@
 - 🎓 &nbsp;I'm a student at SEMOS Academy, "JavaScript Developer of web applications" 
 - 🌱 &nbsp;I’m currently learning React
 - 👀 &nbsp;I’m interested in learning more about AI and investing
-- 📫 &nbsp;How to reach me danchebacheva@gmail.com or [LinkedIn](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
+- 📫 &nbsp;How to reach me: danchebacheva@gmail.com or [LinkedIn](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -25,3 +25,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
+  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack&logoColor=4A154B)
+
