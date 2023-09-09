@@ -1,10 +1,11 @@
 <h1>👋 Hi, I’m Danche<h1/>
   
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🎓 I'm a student at SEMOS Academy, "JavaScript Developer of web applications" 
-- 🌱 I’m currently learning React
-- 👀 I’m interested in learning more about AI and investing
-- 📫 How to reach me danchebacheva@gmail.com or [LinkedIn](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
+
+- 🎓 &nbsp;I'm a student at SEMOS Academy, "JavaScript Developer of web applications" 
+- 🌱 &nbsp;I’m currently learning React
+- 👀 &nbsp;I’m interested in learning more about AI and investing
+- 📫 &nbsp;How to reach me danchebacheva@gmail.com or [LinkedIn](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
