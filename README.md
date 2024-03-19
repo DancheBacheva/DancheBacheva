@@ -2,8 +2,8 @@
   
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp;I'm a student at SEMOS Academy, "JavaScript Developer of web applications" 
-- 🌱 &nbsp;I’m currently learning ReactJS
+- 🎓 &nbsp;I'm a JavaScript Developer of web applications 
+- 🌱 &nbsp;I’m currently learning NextJS
 - 👀 &nbsp;I’m interested in learning more about AI and investing
 - 📫 &nbsp;How to reach me: danchebacheva@gmail.com or [LinkedIn](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
 
