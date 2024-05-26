@@ -5,6 +5,7 @@
 - 🎓 &nbsp;I'm a JavaScript Developer of web applications 
 - 🌱 &nbsp;I’m currently learning NextJS
 - 👀 &nbsp;I’m interested in learning more about AI and investing
+- 🌐 &nbsp;My portfolio: https://dancheb.netlify.app/
 - 📫 &nbsp;How to reach me: danchebacheva@gmail.com or [LinkedIn](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
