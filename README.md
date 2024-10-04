@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp;I'm a JavaScript Developer of web applications 
-- 🌱 &nbsp;I’m currently learning NextJS
+- 🌱 &nbsp;I’m currently learning NextJS, NestJS and Angular
 - 👀 &nbsp;I’m interested in learning more about AI and investing
 - 🌐 &nbsp;My portfolio: https://dancheb.netlify.app/
 - 📫 &nbsp;How to reach me: danchebacheva@gmail.com or [LinkedIn](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
@@ -25,6 +25,8 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
