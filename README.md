@@ -6,7 +6,7 @@
 - 🌱 &nbsp;Currently expanding my expertise in **Next.js**, **NestJS**, and **Angular**.
 - 👀 &nbsp;Enthusiastic about exploring **AI** technologies and **investing** strategies.
 - 🌐 &nbsp;Check out my portfolio: [**dancheb.netlify.app**](https://dancheb.netlify.app/)
-- 📫 &nbsp;Reach me at: danchebacheva@gmail.com or [**LinkedIn**](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
+- 📫 &nbsp;Reach me at: **danchebacheva@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
