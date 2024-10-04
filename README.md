@@ -6,13 +6,13 @@
 - 🌱 &nbsp;Currently expanding my expertise in Next.js, NestJS, and Angular.
 - 👀 &nbsp;Enthusiastic about exploring AI technologies and investing strategies.
 - 🌐 &nbsp;Check out my portfolio: dancheb.netlify.app
-- 📫 &nbsp;Reach me at: danchebacheva@gmail.com or LinkedIn [LinkedIn](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
+- 📫 &nbsp;Reach me at: danchebacheva@gmail.com or [LinkedIn](https://www.linkedin.com/in/danche-bacheva-b3ab5a93/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - ⚙️ &nbsp;Operating Systems
-  ![Kali Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+- ![Kali Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+- ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 - 🌐 &nbsp;Front-End & Back-End
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
