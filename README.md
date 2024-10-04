@@ -21,6 +21,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=000000)
+  ![Ejs](https://img.shields.io/badge/-EJS-333333?style=flat&logo=ejs)
 - 🛢 &nbsp;Databases:
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;Version Control & Collaboration:
