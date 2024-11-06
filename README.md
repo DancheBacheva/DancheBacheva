@@ -36,3 +36,6 @@
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)
 
+ - 🎨 &nbsp;**Design Tools**:
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=FF61F6)
